@@ -72,6 +72,8 @@ After USER_IN_CAR:
 
 If USER_IN_CAR is not received after timeout:
   0xAA is sent once.
+
+
 Auto Lock Timeout
 After successful authentication, the application enters WAIT_ENTRY state.
 
