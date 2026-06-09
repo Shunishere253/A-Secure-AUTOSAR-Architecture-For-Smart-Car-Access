@@ -1,0 +1,51 @@
+# Build outputs
+Debug_FLASH/
+Debug_RAM/
+Release/
+Debug/
+build/
+out/
+
+# Object/dependency/generated build intermediates
+*.o
+*.obj
+*.d
+*.a
+*.lib
+*.elf
+*.map
+*.hex
+*.bin
+*.srec
+*.mot
+*.lst
+*.su
+*.args
+
+# S32DS/Eclipse temporary files
+*.bak
+*.tmp
+*.log
+*.launch.bak
+.cproject.bak
+
+# IDE/user-local settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Python/cache/tools if used locally
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor swap files
+*.swp
+*.swo
+*~
